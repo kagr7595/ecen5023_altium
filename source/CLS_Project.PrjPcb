@@ -53,7 +53,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=IOGVFBHN
+DocumentUniqueId=VLYOQPGU
 
 [Document2]
 DocumentPath=..\library\ECEN5023Integrated_Library\61300611121.PcbLib
@@ -155,7 +155,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=INNSKREB
 
 [Document8]
 DocumentPath=..\library\ECEN5023Integrated_Library\GenericFootprints.PcbLib
@@ -223,7 +223,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=GJSBAIYF
 
 [Document12]
 DocumentPath=..\library\ECEN5023Integrated_Library\MOTION_POSITION-ADXL345BCCZ-RL_14P-5.0X3.0MM_.PcbLib
@@ -257,7 +257,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WYLGUCNW
 
 [Document14]
 DocumentPath=..\library\ECEN5023Integrated_Library\QFN50P500X500X80-33N.PcbLib
@@ -291,7 +291,24 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=CMLAPJTM
+
+[Document16]
+DocumentPath=Accelerometer.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LXMJEQAV
 
 [Configuration1]
 Name=Sources
