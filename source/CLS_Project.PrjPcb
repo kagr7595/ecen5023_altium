@@ -172,7 +172,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=KUATFGPI
 
 [Document9]
 DocumentPath=..\library\ECEN5023Integrated_Library\GenericSymbols.SchLib
@@ -328,6 +328,23 @@ GenerateClassCluster=0
 DocumentUniqueId=DFLVAAHD
 
 [Document18]
+DocumentPath=IO.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=RGEHKBDM
+
+[Document19]
 DocumentPath=GPS.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -344,7 +361,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OGCQDNHU
 
-[Document19]
+[Document20]
 DocumentPath=Programmer.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
