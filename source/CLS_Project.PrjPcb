@@ -209,6 +209,23 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document11]
+DocumentPath=..\Imported LTC3531ES6-3.lia\LTC3531ES6-3.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OPCUWJYI
+
+[Document12]
 DocumentPath=..\library\ECEN5023Integrated_Library\LTC3525ESC6-3.3TRMPBF.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -225,7 +242,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GJSBAIYF
 
-[Document12]
+[Document13]
+DocumentPath=..\Imported LTC3531ES6-3.lia\LTC3531ES6-3.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EGGETJLX
+
+[Document14]
 DocumentPath=..\library\ECEN5023Integrated_Library\MOTION_POSITION-ADXL345BCCZ-RL_14P-5.0X3.0MM_.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -242,7 +276,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
+[Document15]
 DocumentPath=..\library\ECEN5023Integrated_Library\MOTION_POSITION-ADXL345BCCZ-RL_14P-5.0X3.0MM_.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -259,7 +293,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WYLGUCNW
 
-[Document14]
+[Document16]
 DocumentPath=..\library\ECEN5023Integrated_Library\QFN50P500X500X80-33N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -276,7 +310,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document17]
 DocumentPath=..\library\ECEN5023Integrated_Library\QFN50P500X500X80-33N.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -293,9 +327,9 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CMLAPJTM
 
-[Document16]
+[Document18]
 DocumentPath=Accelerometer.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -310,7 +344,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LXMJEQAV
 
-[Document17]
+[Document19]
 DocumentPath=Top.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -327,7 +361,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DFLVAAHD
 
-[Document18]
+[Document20]
+DocumentPath=ESS.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=5
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FIIVFKHV
+
+[Document21]
 DocumentPath=GPS.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -344,7 +395,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OGCQDNHU
 
-[Document19]
+[Document22]
 DocumentPath=Programmer.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -361,14 +412,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WBVSSLTT
 
-[Document20]
+[Document23]
 DocumentPath=IO.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=6
 DoLibraryUpdate=0
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -1202,7 +1253,7 @@ Type55=1
 Type56=2
 Type57=1
 Type58=1
-Type59=2
+Type59=1
 Type60=1
 Type61=2
 Type62=2
@@ -1346,28 +1397,46 @@ ComponentUpdate6=1
 ComponentIsDeviceSheet6=0
 ComponentLibIdentifierKind7=Library Name And Type
 ComponentLibraryIdentifier7=GenericSymbols.SchLib
-ComponentDesignItemID7=LED_generic
-ComponentSymbolReference7=LED_generic
+ComponentDesignItemID7=Inductor_0805
+ComponentSymbolReference7=Inductor_0805
 ComponentUpdate7=1
 ComponentIsDeviceSheet7=0
 ComponentLibIdentifierKind8=Library Name And Type
 ComponentLibraryIdentifier8=GenericSymbols.SchLib
-ComponentDesignItemID8=Pushbutton
-ComponentSymbolReference8=Pushbutton
+ComponentDesignItemID8=LED_generic
+ComponentSymbolReference8=LED_generic
 ComponentUpdate8=1
 ComponentIsDeviceSheet8=0
 ComponentLibIdentifierKind9=Library Name And Type
 ComponentLibraryIdentifier9=GenericSymbols.SchLib
-ComponentDesignItemID9=Resistor_0805
-ComponentSymbolReference9=Resistor_0805
+ComponentDesignItemID9=Pushbutton
+ComponentSymbolReference9=Pushbutton
 ComponentUpdate9=1
 ComponentIsDeviceSheet9=0
 ComponentLibIdentifierKind10=Library Name And Type
-ComponentLibraryIdentifier10=MOTION_POSITION-ADXL345BCCZ-RL_14P-5.0X3.0MM_.SchLib
-ComponentDesignItemID10=MOTION/POSITION-ADXL345BCCZ-RL(14P-5.0X3.0MM)
-ComponentSymbolReference10=MOTION/POSITION-ADXL345BCCZ-RL(14P-5.0X3.0MM)
+ComponentLibraryIdentifier10=GenericSymbols.SchLib
+ComponentDesignItemID10=Resistor_0805
+ComponentSymbolReference10=Resistor_0805
 ComponentUpdate10=1
 ComponentIsDeviceSheet10=0
+ComponentLibIdentifierKind11=Library Name And Type
+ComponentLibraryIdentifier11=LTC3525ESC6-3.3TRMPBF.SchLib
+ComponentDesignItemID11=LTC3525ESC6-3.3TRMPBF
+ComponentSymbolReference11=LTC3525ESC6-3.3TRMPBF
+ComponentUpdate11=1
+ComponentIsDeviceSheet11=0
+ComponentLibIdentifierKind12=Library Name And Type
+ComponentLibraryIdentifier12=LTC3531ES6-3.SchLib
+ComponentDesignItemID12=LTC3531ES6-3
+ComponentSymbolReference12=LTC3531ES6-3
+ComponentUpdate12=1
+ComponentIsDeviceSheet12=0
+ComponentLibIdentifierKind13=Library Name And Type
+ComponentLibraryIdentifier13=MOTION_POSITION-ADXL345BCCZ-RL_14P-5.0X3.0MM_.SchLib
+ComponentDesignItemID13=MOTION/POSITION-ADXL345BCCZ-RL(14P-5.0X3.0MM)
+ComponentSymbolReference13=MOTION/POSITION-ADXL345BCCZ-RL(14P-5.0X3.0MM)
+ComponentUpdate13=1
+ComponentIsDeviceSheet13=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1383,79 +1452,117 @@ RemoveModels=1
 UpdateCurrentModels=1
 ParameterName0=Availability
 ParameterUpdate0=1
-ParameterName1=Comment
+ParameterName1=Code_IEC
 ParameterUpdate1=1
-ParameterName2=Component Kind
+ParameterName2=Code_JEITA
 ParameterUpdate2=1
-ParameterName3=Description
+ParameterName3=Comment
 ParameterUpdate3=1
-ParameterName4=LatestRevisionDate
+ParameterName4=Component Kind
 ParameterUpdate4=1
-ParameterName5=LatestRevisionNote
+ParameterName5=Description
 ParameterUpdate5=1
-ParameterName6=Library Reference
+ParameterName6=Digi-Key_Part_Number
 ParameterUpdate6=1
-ParameterName7=MF
+ParameterName7=Digi-Key_Purchase_URL
 ParameterUpdate7=1
-ParameterName8=MP
+ParameterName8=LatestRevisionDate
 ParameterUpdate8=1
-ParameterName9=Package
+ParameterName9=LatestRevisionNote
 ParameterUpdate9=1
-ParameterName10=PackageDescription
+ParameterName10=Library Reference
 ParameterUpdate10=1
-ParameterName11=PackageReference
+ParameterName11=MF
 ParameterUpdate11=1
-ParameterName12=PackageVersion
+ParameterName12=MP
 ParameterUpdate12=1
-ParameterName13=Price
+ParameterName13=Package
 ParameterUpdate13=1
-ParameterName14=Published
+ParameterName14=PackageDescription
 ParameterUpdate14=1
-ParameterName15=Publisher
+ParameterName15=PackageReference
 ParameterUpdate15=1
-ParameterName16=SnapEDA_Link
+ParameterName16=PackageVersion
 ParameterUpdate16=1
-ParameterName17=Value
+ParameterName17=Price
 ParameterUpdate17=1
+ParameterName18=Published
+ParameterUpdate18=1
+ParameterName19=Publisher
+ParameterUpdate19=1
+ParameterName20=SnapEDA_Link
+ParameterUpdate20=1
+ParameterName21=Value
+ParameterUpdate21=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=1608[0603]
+ModelName0=0402-A
 ModelUpdate0=1
 ModelType1=PCBLIB
-ModelName1=61300611121
+ModelName1=0603
 ModelUpdate1=1
 ModelType2=PCBLIB
-ModelName2=LGA14-0.8-5.0X3.0MM
+ModelName2=1608[0603]
 ModelUpdate2=1
 ModelType3=PCBLIB
-ModelName3=POLAR0.8
+ModelName3=2029
 ModelUpdate3=1
 ModelType4=PCBLIB
-ModelName4=XCVR_BGM121A256V1
+ModelName4=61300611121
 ModelUpdate4=1
+ModelType5=PCBLIB
+ModelName5=INDC1608L
+ModelUpdate5=1
+ModelType6=PCBLIB
+ModelName6=INDC3216
+ModelUpdate6=1
+ModelType7=PCBLIB
+ModelName7=INDC4532
+ModelUpdate7=1
+ModelType8=PCBLIB
+ModelName8=LGA14-0.8-5.0X3.0MM
+ModelUpdate8=1
+ModelType9=PCBLIB
+ModelName9=POLAR0.8
+ModelUpdate9=1
+ModelType10=PCBLIB
+ModelName10=SOT65P210X100-6N
+ModelUpdate10=1
+ModelType11=PCBLIB
+ModelName11=TSOT-23_S6
+ModelUpdate11=1
+ModelType12=PCBLIB
+ModelName12=XCVR_BGM121A256V1
+ModelUpdate12=1
 ModelTypeGroup1=SI
 ModelTypeUpdate1=1
-ModelType5=SI
-ModelName5=Cap
-ModelUpdate5=1
-ModelType6=SI
-ModelName6=Cap Pol
-ModelUpdate6=1
-ModelType7=SI
-ModelName7=Res Semi
-ModelUpdate7=1
+ModelType13=SI
+ModelName13=Cap
+ModelUpdate13=1
+ModelType14=SI
+ModelName14=Cap Pol
+ModelUpdate14=1
+ModelType15=SI
+ModelName15=Inductor
+ModelUpdate15=1
+ModelType16=SI
+ModelName16=Res Semi
+ModelUpdate16=1
 ModelTypeGroup2=SIM
 ModelTypeUpdate2=1
-ModelType8=SIM
-ModelName8=CAP
-ModelUpdate8=1
-ModelType9=SIM
-ModelName9=LED2
-ModelUpdate9=1
-ModelType10=SIM
-ModelName10=RES
-ModelUpdate10=1
+ModelType17=SIM
+ModelName17=CAP
+ModelUpdate17=1
+ModelType18=SIM
+ModelName18=INDUCTOR
+ModelUpdate18=1
+ModelType19=SIM
+ModelName19=LED2
+ModelUpdate19=1
+ModelType20=SIM
+ModelName20=RES
+ModelUpdate20=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
