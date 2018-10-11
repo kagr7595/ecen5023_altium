@@ -209,23 +209,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document11]
-DocumentPath=..\Imported LTC3531ES6-3.lia\LTC3531ES6-3.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=OPCUWJYI
-
-[Document12]
 DocumentPath=..\library\ECEN5023Integrated_Library\LTC3525ESC6-3.3TRMPBF.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -242,24 +225,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GJSBAIYF
 
-[Document13]
-DocumentPath=..\Imported LTC3531ES6-3.lia\LTC3531ES6-3.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=EGGETJLX
-
-[Document14]
+[Document12]
 DocumentPath=..\library\ECEN5023Integrated_Library\MOTION_POSITION-ADXL345BCCZ-RL_14P-5.0X3.0MM_.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -276,7 +242,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document13]
 DocumentPath=..\library\ECEN5023Integrated_Library\MOTION_POSITION-ADXL345BCCZ-RL_14P-5.0X3.0MM_.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -293,7 +259,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WYLGUCNW
 
-[Document16]
+[Document14]
 DocumentPath=..\library\ECEN5023Integrated_Library\QFN50P500X500X80-33N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -310,7 +276,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
+[Document15]
 DocumentPath=..\library\ECEN5023Integrated_Library\QFN50P500X500X80-33N.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -327,7 +293,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CMLAPJTM
 
-[Document18]
+[Document16]
 DocumentPath=Accelerometer.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -344,7 +310,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LXMJEQAV
 
-[Document19]
+[Document17]
 DocumentPath=Top.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -361,7 +327,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DFLVAAHD
 
-[Document20]
+[Document18]
 DocumentPath=ESS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -378,7 +344,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FIIVFKHV
 
-[Document21]
+[Document19]
 DocumentPath=GPS.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -395,7 +361,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OGCQDNHU
 
-[Document22]
+[Document20]
 DocumentPath=Programmer.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -412,7 +378,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WBVSSLTT
 
-[Document23]
+[Document21]
 DocumentPath=IO.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -428,6 +394,40 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RGEHKBDM
+
+[Document22]
+DocumentPath=..\library\ECEN5023Integrated_Library\LTC3531ES6-3.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document23]
+DocumentPath=..\library\ECEN5023Integrated_Library\LTC3531ES6-3.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
 [Configuration1]
 Name=Sources
