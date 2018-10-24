@@ -362,13 +362,13 @@ GenerateClassCluster=0
 DocumentUniqueId=CMLAPJTM
 
 [Document20]
-DocumentPath=Accelerometer.SchDoc
-AnnotationEnabled=0
+DocumentPath=Antenna.SchDoc
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=0
+AnnotateOrder=-1
 DoLibraryUpdate=0
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -376,43 +376,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=LXMJEQAV
+DocumentUniqueId=VDLRAXGQ
 
 [Document21]
-DocumentPath=Top.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=4
-DoLibraryUpdate=0
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=DFLVAAHD
-
-[Document22]
-DocumentPath=GPS.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=1
-DoLibraryUpdate=0
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=OGCQDNHU
-
-[Document23]
 DocumentPath=Programmer.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -428,6 +394,40 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WBVSSLTT
+
+[Document22]
+DocumentPath=Reset.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LXHJETFB
+
+[Document23]
+DocumentPath=ESS.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=5
+DoLibraryUpdate=0
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FIIVFKHV
 
 [Document24]
 DocumentPath=IO.SchDoc
@@ -447,6 +447,57 @@ GenerateClassCluster=0
 DocumentUniqueId=RGEHKBDM
 
 [Document25]
+DocumentPath=Accelerometer.SchDoc
+AnnotationEnabled=0
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=0
+DoLibraryUpdate=0
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LXMJEQAV
+
+[Document26]
+DocumentPath=Top.SchDoc
+AnnotationEnabled=0
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=4
+DoLibraryUpdate=0
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DFLVAAHD
+
+[Document27]
+DocumentPath=GPS.SchDoc
+AnnotationEnabled=0
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=1
+DoLibraryUpdate=0
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OGCQDNHU
+
+[Document28]
 DocumentPath=RFRX.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -463,7 +514,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RHIVFJYN
 
-[Document26]
+[Document29]
 DocumentPath=..\library\ECEN5023Integrated_Library\LTC3531ES6-3.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -480,7 +531,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OPCUWJYI
 
-[Document27]
+[Document30]
 DocumentPath=..\library\ECEN5023Integrated_Library\LTC3531ES6-3.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -497,7 +548,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EGGETJLX
 
-[Document28]
+[Document31]
 DocumentPath=..\library\ECEN5023Integrated_Library\CeramicFilter.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -514,24 +565,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XWGEUMBQ
 
-[Document29]
-DocumentPath=ESS.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=5
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=FIIVFKHV
-
-[Document30]
+[Document32]
 DocumentPath=..\library\ECEN5023Integrated_Library\EFR32BG1B232F256GM48-C0.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -548,7 +582,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SANABNCP
 
-[Document31]
+[Document33]
 DocumentPath=..\library\ECEN5023Integrated_Library\DS1818.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -565,24 +599,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VOLOPOAN
 
-[Document32]
-DocumentPath=Reset.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=0
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=LXHJETFB
-
-[Document33]
+[Document34]
 DocumentPath=..\library\ECEN5023Integrated_Library\TPS22860DBVR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -599,7 +616,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NKQKDADX
 
-[Document34]
+[Document35]
 DocumentPath=..\library\ECEN5023Integrated_Library\TPS22860DBVR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -616,7 +633,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JVGRVUBR
 
-[Document35]
+[Document36]
 DocumentPath=..\library\ECEN5023Integrated_Library\QFN50P700X700X90-49N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -632,23 +649,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SDYTHUDK
-
-[Document36]
-DocumentPath=Antenna.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=0
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=VDLRAXGQ
 
 [Document37]
 DocumentPath=..\library\ECEN5023Integrated_Library\ADP1607.SchLib
@@ -821,6 +821,16 @@ OutputName21=XSpice Netlist
 OutputDocumentPath21=
 OutputVariantName21=
 OutputDefault21=0
+OutputType22=SIMetrixNetlist
+OutputName22=SIMetrix
+OutputDocumentPath22=
+OutputVariantName22=
+OutputDefault22=0
+OutputType23=SIMPLISNetlist
+OutputName23=SIMPLIS
+OutputDocumentPath23=
+OutputVariantName23=
+OutputDefault23=0
 
 [OutputGroup2]
 Name=Simulator Outputs
@@ -832,6 +842,16 @@ OutputName1=Mixed Sim
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
+OutputType2=SIMetrixSimulation
+OutputName2=SIMetrix
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=SIMPLISSimulation
+OutputName3=SIMPLIS
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -910,6 +930,12 @@ OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
 PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType13=Software Platform Print
+OutputName13=Software Platform Prints
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
 [OutputGroup4]
 Name=Assembly Outputs
@@ -1671,7 +1697,7 @@ ComponentLibIdentifierKind5=Library Name And Type
 ComponentLibraryIdentifier5=DS1818.SchLib
 ComponentDesignItemID5=DS1818_5
 ComponentSymbolReference5=DS1818_5
-ComponentUpdate5=0
+ComponentUpdate5=1
 ComponentIsDeviceSheet5=0
 ComponentLibIdentifierKind6=Library Name And Type
 ComponentLibraryIdentifier6=EFR32BG1B232F256GM48-C0.SchLib
