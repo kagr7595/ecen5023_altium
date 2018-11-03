@@ -549,6 +549,23 @@ GenerateClassCluster=0
 DocumentUniqueId=JVGRVUBR
 
 [Document31]
+DocumentPath=..\library\ECEN5023Integrated_Library\1661.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CJOLVSML
+
+[Document32]
 DocumentPath=..\library\ECEN5023Integrated_Library\ADP1607.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -565,7 +582,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LDQPUVVG
 
-[Document32]
+[Document33]
 DocumentPath=..\library\ECEN5023Integrated_Library\LED2PINSMDGW.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -582,7 +599,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XWORBXXQ
 
-[Document33]
+[Document34]
 DocumentPath=..\library\ECEN5023Integrated_Library\SFECV10M7CQ0C01R0.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -599,7 +616,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GUROEYUI
 
-[Document34]
+[Document35]
+DocumentPath=..\library\ECEN5023Integrated_Library\1661.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BTYCOLPQ
+
+[Document36]
 DocumentPath=..\library\ECEN5023Integrated_Library\OSCCC320X250X75.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -616,7 +650,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MESLGVIV
 
-[Document35]
+[Document37]
 DocumentPath=..\library\ECEN5023Integrated_Library\LTC3531EDD-3PBF.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -633,7 +667,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OGLTHGNV
 
-[Document36]
+[Document38]
 DocumentPath=..\library\ECEN5023Integrated_Library\LTC3531EDD-3PBF.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -650,7 +684,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EIGDERES
 
-[Document37]
+[Document39]
 DocumentPath=..\library\ECEN5023Integrated_Library\Testpoint.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -667,7 +701,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KQJKDILQ
 
-[Document38]
+[Document40]
 DocumentPath=..\library\ECEN5023Integrated_Library\supercap.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
