@@ -107,40 +107,6 @@ GenerateClassCluster=0
 DocumentUniqueId=XBQYEYWH
 
 [Document5]
-DocumentPath=..\library\ECEN5023Integrated_Library\BGM121A256V1.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=WDVWQNYS
-
-[Document6]
-DocumentPath=..\library\ECEN5023Integrated_Library\BGM121A256V1.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=QIQDMHAT
-
-[Document7]
 DocumentPath=..\library\ECEN5023Integrated_Library\EFR32BG1B232F256GM48-C0-QFN48.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -157,41 +123,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NJLFRAWC
 
-[Document8]
-DocumentPath=..\library\ECEN5023Integrated_Library\BQ25570RGRR.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=OJLQQGGO
-
-[Document9]
-DocumentPath=..\library\ECEN5023Integrated_Library\BQ25570RGRR.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=INNSKREB
-
-[Document10]
+[Document6]
 DocumentPath=..\library\ECEN5023Integrated_Library\ADP1607.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -208,7 +140,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KUATFGPI
 
-[Document11]
+[Document7]
 DocumentPath=..\library\ECEN5023Integrated_Library\142-0701-201.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -225,7 +157,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YGEJSJOU
 
-[Document12]
+[Document8]
 DocumentPath=..\library\ECEN5023Integrated_Library\GenericSymbols.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -242,7 +174,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OEJWPPRK
 
-[Document13]
+[Document9]
 DocumentPath=..\library\ECEN5023Integrated_Library\142-0701-201.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -259,41 +191,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PRDSYXFS
 
-[Document14]
-DocumentPath=..\library\ECEN5023Integrated_Library\LTC3525ESC6-3.3TRMPBF.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YMCCVGRU
-
-[Document15]
-DocumentPath=..\library\ECEN5023Integrated_Library\LTC3525ESC6-3.3TRMPBF.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=GJSBAIYF
-
-[Document16]
+[Document10]
 DocumentPath=..\library\ECEN5023Integrated_Library\GenericFootprints.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -310,7 +208,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KUATFGPI
 
-[Document17]
+[Document11]
 DocumentPath=..\library\ECEN5023Integrated_Library\DS1818R-5_.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -327,7 +225,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SSENRYMC
 
-[Document18]
+[Document12]
 DocumentPath=..\library\ECEN5023Integrated_Library\2174507-2.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -344,7 +242,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MGKCIMLA
 
-[Document19]
+[Document13]
 DocumentPath=..\library\ECEN5023Integrated_Library\MOTION_POSITION-ADXL345BCCZ-RL_14P-5.0X3.0MM_.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -361,7 +259,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WYLGUCNW
 
-[Document20]
+[Document14]
 DocumentPath=..\library\ECEN5023Integrated_Library\2174507-2.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -378,7 +276,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IUCULJWU
 
-[Document21]
+[Document15]
 DocumentPath=..\library\ECEN5023Integrated_Library\QFN50P500X500X80-33N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -395,7 +293,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MTKQNPYQ
 
-[Document22]
+[Document16]
 DocumentPath=..\library\ECEN5023Integrated_Library\QFN50P500X500X80-33N.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -412,7 +310,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CMLAPJTM
 
-[Document23]
+[Document17]
 DocumentPath=Antenna.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -429,7 +327,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VDLRAXGQ
 
-[Document24]
+[Document18]
 DocumentPath=Programmer.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -446,7 +344,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WBVSSLTT
 
-[Document25]
+[Document19]
 DocumentPath=Reset.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -463,7 +361,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LXHJETFB
 
-[Document26]
+[Document20]
 DocumentPath=ESS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -480,7 +378,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FIIVFKHV
 
-[Document27]
+[Document21]
 DocumentPath=IO.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -497,7 +395,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RGEHKBDM
 
-[Document28]
+[Document22]
 DocumentPath=Accelerometer.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -514,7 +412,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LXMJEQAV
 
-[Document29]
+[Document23]
 DocumentPath=Top.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -531,7 +429,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DFLVAAHD
 
-[Document30]
+[Document24]
 DocumentPath=GPS.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -548,7 +446,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OGCQDNHU
 
-[Document31]
+[Document25]
 DocumentPath=RFRX.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -565,41 +463,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RHIVFJYN
 
-[Document32]
-DocumentPath=..\library\ECEN5023Integrated_Library\LTC3531ES6-3.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=OPCUWJYI
-
-[Document33]
-DocumentPath=..\library\ECEN5023Integrated_Library\LTC3531ES6-3.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=EGGETJLX
-
-[Document34]
+[Document26]
 DocumentPath=..\library\ECEN5023Integrated_Library\CeramicFilter.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -616,7 +480,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XWGEUMBQ
 
-[Document35]
+[Document27]
 DocumentPath=..\library\ECEN5023Integrated_Library\EFR32BG1B232F256GM48-C0.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -633,7 +497,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SANABNCP
 
-[Document36]
+[Document28]
 DocumentPath=..\library\ECEN5023Integrated_Library\DS1818.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -650,24 +514,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VOLOPOAN
 
-[Document37]
-DocumentPath=..\library\ECEN5023Integrated_Library\TPS22860DBVR.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=NKQKDADX
-
-[Document38]
+[Document29]
 DocumentPath=..\library\ECEN5023Integrated_Library\TPS22860DBVR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -684,7 +531,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JVGRVUBR
 
-[Document39]
+[Document30]
 DocumentPath=..\library\ECEN5023Integrated_Library\ADP1607.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -701,7 +548,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LDQPUVVG
 
-[Document40]
+[Document31]
 DocumentPath=..\library\ECEN5023Integrated_Library\SFECV10M7CQ0C01R0.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -718,7 +565,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GUROEYUI
 
-[Document41]
+[Document32]
 DocumentPath=..\library\ECEN5023Integrated_Library\LTC3531EDD-3PBF.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -735,7 +582,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OGLTHGNV
 
-[Document42]
+[Document33]
 DocumentPath=..\library\ECEN5023Integrated_Library\LTC3531EDD-3PBF.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -752,7 +599,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EIGDERES
 
-[Document43]
+[Document34]
 DocumentPath=..\library\ECEN5023Integrated_Library\Testpoint.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
